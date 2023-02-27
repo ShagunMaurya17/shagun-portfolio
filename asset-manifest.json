@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shagun_portfolio/static/css/main.5607acd1.css",
-    "main.js": "/shagun_portfolio/static/js/main.0f3c99bc.js",
-    "static/media/Screenshot 2023-02-27 190622.png": "/shagun_portfolio/static/media/Screenshot 2023-02-27 190622.56701ba542351a8a388b.png",
-    "static/media/heroImage.png": "/shagun_portfolio/static/media/heroImage.5b2fdb3a78f1173cda1e.png",
-    "static/media/reactWeather.jpg": "/shagun_portfolio/static/media/reactWeather.a1988356c4f5a620716e.jpg",
-    "static/media/react.png": "/shagun_portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/github.png": "/shagun_portfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/shagun_portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/shagun_portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/shagun_portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/shagun_portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/shagun_portfolio/index.html",
-    "main.5607acd1.css.map": "/shagun_portfolio/static/css/main.5607acd1.css.map",
-    "main.0f3c99bc.js.map": "/shagun_portfolio/static/js/main.0f3c99bc.js.map"
+    "main.css": "/shagun-portfolio/static/css/main.5607acd1.css",
+    "main.js": "/shagun-portfolio/static/js/main.78acdd58.js",
+    "static/media/Screenshot 2023-02-27 190622.png": "/shagun-portfolio/static/media/Screenshot 2023-02-27 190622.56701ba542351a8a388b.png",
+    "static/media/heroImage.png": "/shagun-portfolio/static/media/heroImage.5b2fdb3a78f1173cda1e.png",
+    "static/media/reactWeather.jpg": "/shagun-portfolio/static/media/reactWeather.a1988356c4f5a620716e.jpg",
+    "static/media/react.png": "/shagun-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/shagun-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/shagun-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/shagun-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/shagun-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/shagun-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/shagun-portfolio/index.html",
+    "main.5607acd1.css.map": "/shagun-portfolio/static/css/main.5607acd1.css.map",
+    "main.78acdd58.js.map": "/shagun-portfolio/static/js/main.78acdd58.js.map"
   },
   "entrypoints": [
     "static/css/main.5607acd1.css",
-    "static/js/main.0f3c99bc.js"
+    "static/js/main.78acdd58.js"
   ]
 }
