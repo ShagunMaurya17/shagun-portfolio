@@ -1,5 +1,6 @@
 {
   "name": "shagun-portfolio",
+  "homepage": "https://shagunmaurya17.github.io/shagun-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +9,7 @@
     "@testing-library/user-event": "^13.2.1",
     "autoprefixer": "^10.4.13",
     "eslint-plugin-react-hooks": "^4.6.0",
+    "gh-pages": "^5.0.0",
     "nodemon": "^2.0.20",
     "postcss": "^8.4.21",
     "react": "^18.2.0",
@@ -19,6 +21,8 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
